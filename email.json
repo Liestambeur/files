@@ -17,4 +17,10 @@
         "date" : "2000-04-01" ,
         "body" : "test"
       }
+    , { "from" : "test2" ,
+        "to" : "test2" ,
+        "title" : "test2" ,
+        "date" : "2003-04-01" ,
+        "body" : "test2"
+      }
 ]}
